@@ -1,0 +1,58 @@
+/* * {
+    border: 1px solid black;
+} */
+
+body {
+    background-color: red;
+}
+
+.flex {
+    position: absolute;
+    border: 1px solid white;
+    padding-bottom: 615px;
+    padding-top: -10px ;
+    outline-offset: 0px;
+    padding-right: 1010px;
+    background-color: black;
+    overflow: auto;
+}
+
+.canva {
+    background-color: grey;
+    margin-left: 200px;
+    height: 300px
+}
+
+.one {
+    background-color: white;
+    width: 15px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 230px;
+    padding-right: -3000px;
+    position: absolute;
+    border: 1px solid red;
+}
+
+.two {
+    background-color: white;
+    width: 15px;
+    height: 200px;
+    margin-left: 980px;
+    margin-top: 250px;
+    padding-left: -3000;
+    position: absolute;
+    border: 1px solid blue;
+}
+
+.ball {
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 300px;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    position: absolute;
+    padding: -100px;
+    top: 0;
+}
